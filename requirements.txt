@@ -1,6 +1,7 @@
 langchain
 langchain-google-genai
-pypdf  <-- CRITICAL: This is the missing package for PyPDFLoader
+langchain-community  <-- CRITICAL: This is the missing package!
+pypdf
 python-dotenv
 sentence-transformers
 chromadb
