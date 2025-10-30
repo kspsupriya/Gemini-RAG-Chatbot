@@ -6,3 +6,9 @@ gemini-rag-chatbot/
 ├── requirements.txt
 └── README.md
 
+langchain
+langchain-google-genai
+pypdf
+sentence-transformers
+chromadb # or another vector store you prefer (e.g., faiss-cpu)
+python-dotenv
