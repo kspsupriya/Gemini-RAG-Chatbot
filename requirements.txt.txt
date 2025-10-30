@@ -1,8 +1,8 @@
 gemini-rag-chatbot/
-├── data/
-│   └── Term Insurance Guide.pdf
+├── Source_document.pdf
 ├── .env.example
 ├── main.py
 ├── rag_chain.py
 ├── requirements.txt
 └── README.md
+
