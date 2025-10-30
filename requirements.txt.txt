@@ -12,3 +12,5 @@ pypdf
 sentence-transformers
 chromadb # or another vector store you prefer (e.g., faiss-cpu)
 python-dotenv
+streamlit # <--- NEW: Added for the web UI
+
