@@ -1,6 +1,6 @@
 langchain
 langchain-google-genai
-pypdf
+pypdf  <-- CRITICAL: This is the missing package for PyPDFLoader
 python-dotenv
 sentence-transformers
 chromadb
